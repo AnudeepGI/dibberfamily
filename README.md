@@ -31,3 +31,7 @@ This command runs the app in development mode. Open [http://localhost:3000](http
 
 After the server starts, it will display a button on the webpage. Once you click on that button, the React Modal will be displayed.
 
+Attached are the screenshots for your review
+![image](https://github.com/AnudeepGI/dibberfamily/assets/5028544/b613bd4d-e86d-45dd-94a4-30e69ad14744)
+![image](https://github.com/AnudeepGI/dibberfamily/assets/5028544/a9c87c33-4c47-4774-b68a-5bfe034eb488)
+
