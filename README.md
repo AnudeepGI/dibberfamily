@@ -1,8 +1,3 @@
-
-# Running the React App
-
-This guide will help you get the React app up and running on your local machine.
-
 ## Prerequisites
 
 Before you begin, ensure you have Node.js and npm installed. You can check by running `node -v` and `npm -v` in your terminal to see the versions installed. If these commands fail, you need to install Node.js and npm first.
