@@ -133,8 +133,4 @@ function ModalComponent({ isOpen, toggleModal, activeDays, toggleDay }) {
   );
 }
 
-// function ModalComponent() {
-
-// }
-
 export default ModalComponent;
